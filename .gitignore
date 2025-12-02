@@ -1,0 +1,5 @@
+# ignore large datasets
+Datasets/
+*.csv
+*.zip
+*.gz
