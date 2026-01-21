@@ -5,7 +5,8 @@ Due to size limits, datasets are not stored in this repo.
 Download them from:
 - CICIDS2017: https://www.kaggle.com/datasets/sweety18/cicids2017-full-dataset/data
 - CICIDS2018: https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv?select=03-02-2018.csv
-- CIC-DDoS2019: <link>
+- CIC-DDoS2019: https://www.kaggle.com/datasets/aymenabb/ddos-evaluation-dataset-cic-ddos2019
+
 
 Place them under the `Datasets/` folder before running the notebooks/scripts.
  
